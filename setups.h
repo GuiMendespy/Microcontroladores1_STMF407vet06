@@ -1,10 +1,3 @@
-/*
- * setups.h
- *
- *  Created on: May 13, 2025
- *      Author: William de Sousa
- */
-
 #ifndef INC_SETUPS_H_
 #define INC_SETUPS_H_
 
